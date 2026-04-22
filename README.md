@@ -41,18 +41,7 @@ Prescription-NLP/
 │── requirements.txt
 │── README.md
 
-## Installation
 
-1. Clone the repository
-git clone https://github.com/your-username/prescription-nlp.git
-cd prescription-nlp
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Install Tesseract OCR
-Download from: https://github.com/tesseract-ocr/tesseract  
-Add it to system PATH.
 
 ## Usage
 
